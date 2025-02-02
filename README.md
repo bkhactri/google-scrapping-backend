@@ -1,4 +1,4 @@
-# Backend for the technical challenge
+# Backend
 
 ## Installation
 
